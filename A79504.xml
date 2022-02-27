@@ -1,0 +1,436 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New-Englands Jonas cast up at London: or, A relation of the proceedings of the court at Boston in New-England against divers honest and godly persons, for petitioning for government in the common-wealth, according to the lawes of England, and for admittance of themselves and children to the sacraments in their churches; and in case that should not be granted, for leave to have ministers and church-government according to the best reformation of England and Scotland. Together with a confutation of some reports of a fained miracle upon the aforesaid petition, being thrown over-board at sea; as also a breif [sic] answer to some passages in a late book (entituled Hypocrisie unmasked) set out by Mr. Winslowe, concerning the Independent churches holding communion with the reformed churches. / By Major John Child.</title>
+            <author>Child, John, Major.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79504</idno>
+            <idno type="STC">Wing C3851</idno>
+            <idno type="STC">Thomason E384_5</idno>
+            <idno type="STC">ESTC R201443</idno>
+            <idno type="EEBO-CITATION">99861953</idno>
+            <idno type="PROQUEST">99861953</idno>
+            <idno type="VID">114099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114099)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E384[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New-Englands Jonas cast up at London: or, A relation of the proceedings of the court at Boston in New-England against divers honest and godly persons, for petitioning for government in the common-wealth, according to the lawes of England, and for admittance of themselves and children to the sacraments in their churches; and in case that should not be granted, for leave to have ministers and church-government according to the best reformation of England and Scotland. Together with a confutation of some reports of a fained miracle upon the aforesaid petition, being thrown over-board at sea; as also a breif [sic] answer to some passages in a late book (entituled Hypocrisie unmasked) set out by Mr. Winslowe, concerning the Independent churches holding communion with the reformed churches. / By Major John Child.</title>
+                  <author>Child, John, Major.</author>
+               </titleStmt>
+               <extent>[2], 13 [i.e. 21], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.R. and E.M.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply, at least in part, to: Winslow, Edward. Hypocrisie unmasked (Wing W3037). Winslow, in his New-Englands salamander, discovered by an irreligious and scornefull pamphlet, called New-Englands Jonas cast up at London, &amp;c. Owned by Major John Childe, but not probable to be written by him (Wing W3038), obviously doubts Child's authorship of this item.</note>
+                  <note>Text is continuous despite numerous errors in pagination.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Annotation on Thomason copy: "Aprill 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winslow, Edward, 1595-1655. --  Hypocrisie unmasked.</term>
+               <term>Independent churches --  Early works to 1800.</term>
+               <term>Massachusetts --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114099:1"/>
+            <pb facs="tcp:114099:1" rendition="simple:additions"/>
+            <p>
+               <hi>NEW-ENGLANDS</hi> JONAS Caſt up at LONDON: OR, A RELATION of the Proceedings of the Court at <hi>Boſton</hi> in <hi>New-England</hi> againſt di<g ref="char:EOLhyphen"/>vers honeſt and godly perſons, for Petitioning for Go<g ref="char:EOLhyphen"/>vernment in the Common-wealth, according to the Lawes of <hi>England,</hi> and for admittance of themſelves and children to the Sacraments in their Churches; and in caſe that ſhould not be granted, for leave to have Miniſters and Church-govern<g ref="char:EOLhyphen"/>ment according to the beſt Reformation of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Together with a Confutation of ſome Reports of a fained Miracle upon the foreſaid Petition, being thrown over-board at Sea; As alſo a breif Anſwer to ſome paſſages in a late Book (entituled <hi>Hypocriſie unmasked</hi>) ſet out by Mr. <hi>Winſlowe,</hi> concerning the Inde<g ref="char:EOLhyphen"/>pendent Churches holding communion with the Reformed Churches.</p>
+            <p>By Major <hi>John Child.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. R.</hi> and <hi>E. M.</hi> 1647.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:114099:2"/>
+            <pb n="1" facs="tcp:114099:2"/>
+            <head>The Preface.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE occaſion of Printing this fol<g ref="char:EOLhyphen"/>lowing Relation, are the ſufferings that not only my Brother <hi>Robert Child</hi> Doctor of Phyſick, with ſome Gentlemen and others have ſuffer<g ref="char:EOLhyphen"/>ed in <hi>New-England</hi> in their perſons and eſtates by Fines and impriſon<g ref="char:EOLhyphen"/>ments there, but here in <hi>England</hi> in their repute by falſe reports and fained Miracles in<g ref="char:EOLhyphen"/>vented and ſpread on purpoſe by ſome lately come from thence, and fomented by ſome others here to colour their unjuſt proceedings.</p>
+            <p>Firſt, they give out of my Brother and others, that they deſire a Toleration of all Religions.</p>
+            <p>Secondly, that they are troubleſome perſons, and a<g ref="char:EOLhyphen"/>gainſt all government both in Church and Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>Thirdly, that ſome of them are come from thence to Petition the Parliament for that purpoſe.</p>
+            <p n="4">4ly, that their Petition brought from thence to be pre<g ref="char:EOLhyphen"/>ſented to the Parliam. (which they had named <hi>Jonas</hi>) in a
+<pb n="2" facs="tcp:114099:3"/> Ship called the <hi>Supply,</hi> being in a ſtorme neer <hi>Silly,</hi> out of horror of conſcience, the Petition was come and thrown over board, and that then the ſtorm immediatly ceaſed, and they miraculouſly ſaved.</p>
+            <p>Now for ſatisfaction, I preſent to the Reader theſe following particulars.</p>
+            <p>Firſt, the Petition of the greater part of the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Hingham</hi> and the proceedings therein.</p>
+            <p>Secondly, a Petition of Doctor <hi>Child</hi> and others deli<g ref="char:EOLhyphen"/>vered to the generall Court at <hi>Boſton</hi> with ſome paſſages thereupon,</p>
+            <p>Thirdly, the Capital Laws of the Maſſachuſets Bay, with the Free-mans Oath as they are printed there by themſelves.</p>
+            <p>Fourthly, a Relation of that ſtory of <hi>Jonas</hi> verbatim, as it was delivered to me in writing by a Gentleman that was then a paſſenger in the Ship.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="3" facs="tcp:114099:3"/>
+            <head>
+               <hi>The Petition of the greater part of the Inha<g ref="char:EOLhyphen"/>bitants of</hi> Hingham, <hi>as it was taken out of the Records of the Court at</hi> Boſton.</head>
+            <head type="sub">To the Honoured, the <hi>Generall Court,</hi> conſiſting of the Magi<g ref="char:EOLhyphen"/>ſtrates and Deputies of the Country now aſſembled in Court at <hi>Boſton:</hi> The humble Petition of the greater part of the Inhabitants of the Townſhip of <hi>Hingham.</hi>
+            </head>
+            <p>WHereas there hath fallen out ſome agitations amongſt us concerning the choice of our chief Military Officers, which by Order of the Court we have power to chooſe (as we conceive) So it is that we did elect, and preſent to the Generall Court for their confirmation, Mr. <hi>Bozoune Allin</hi> for our Chief<g ref="char:EOLhyphen"/>tain: but the Court not having time to finiſh that buſines at that time, ſome other things and overtures have happened ſince, whereby it hath ſo fallen out that ſome of us have been com<g ref="char:EOLhyphen"/>pelled to appeare before ſome of the Magiſtrates, and to give Bonds for appearance at a Quarter-Court which is to be holden after this Generall Court; and ſome for not giving Bond to an<g ref="char:EOLhyphen"/>ſwer there, are committed to priſon, and remain there at pre<g ref="char:EOLhyphen"/>ſent; the matters of accuſation (as we conceive) is for certain words ſpoken by ſome, concerning the liberty and power of the Generall Court, and our own liberty granted to us by the ſaid Courts, and to the Country in generall; and alſo it doth concern the Liberty of an Engliſh free-borne Member of that State, and further it hath occaſioned ſuch diſturbance and ſchiſme in our Church, and trouble to ſome of our Members for witneſſing a<g ref="char:EOLhyphen"/>gainſt a Delinquent: whereby the power of the Ordinances of Jeſus Chriſt in his Church is ſlighted, and the free paſſage thereof ſtopped, to the endangering of the liberty of the Churches a<g ref="char:EOLhyphen"/>mongſt
+<pb n="4" facs="tcp:114099:4"/> us, if timely remedy be not by your Wiſdoms provided. Now ſeeing the matters in hand doth concern the generall li<g ref="char:EOLhyphen"/>berty of the whole Couuntry, and the peace of the Churches, and glory of God, as we are ready upon the hearing of the Court to make it appeare; We humbly ſue to this honoured Court to be pleaſed to grant us an honourable and free hearing, and that we may have liberty to plead our common Liberties in this Court, together with the liberties of the Churches of Chriſt maintained. <hi>And we ſhall ever pray for your peace and proſperity long to continue.</hi>
+            </p>
+            <p>For which Petition being fined 100. l. and the Marſhal ſent to <hi>Hingham</hi> to levy the ſaid Fine: Mr. <hi>Hubbard</hi> the Miniſter of that town being one of them that was fined, the Marſhal coming to his houſe to levy part thereof, produced this effect as follow<g ref="char:EOLhyphen"/>eth taken out of their Records.</p>
+         </div>
+         <div type="narrative">
+            <head>THE RELATION.</head>
+            <p>THe 18. of the firſt Moneth, 1645. the Marſhall going to gather 100. l. in Fines of divers Inhabitants of <hi>Hingham,</hi> as they were ſet by the Generall Court, in the 3. or 4. moneth paſt; came to Mr. <hi>Peter Hubbard,</hi> who deſiring to ſee his Warrant, which the Marſhall ſhewing him, upon a ſight of it Mr. <hi>Hubbard</hi> ſaid the Warrant was inſufficient, being not ſent out in his Ma<g ref="char:EOLhyphen"/>jeſties name, he being ſworne to the Crown of <hi>England;</hi> and ſaid that they had ſent into <hi>England</hi> unto his Friends the buſines, and expected ſhortly an anſwer and advice from thence: And that our Government here was not more then a Corporation in <hi>England,</hi> and that we had not power to put men to death by vertue of the Patent, nor to do ſome other things we did; and that for himſelf, he had neither horn nor hooſe of his own, nor any thing wherewith to buy his children cloaths, And he wiſhed that the Magiſtrates would take ſome courſe that the Miniſters might be better provided for, and he wondered by what order or rule the Miniſters were deprived of their Tythes: but if he muſt pay it, he would pay it in Books, but that he knew not for
+<pb n="5" facs="tcp:114099:4"/> what they were fined, unleſſe it were for Petitioning; and if they were ſo waſpiſh they might not be Petitioned, then he could not tell what to ſay, (about thirty or forty being preſent.) And further, that he had ſeriouſly conſidered what they had done, and he could not ſee any thing they had done amiſſe, for which they ſhould be Fined.</p>
+            <closer>
+               <signed>
+                  <hi>Increaſe Nowel,</hi> Secret.</signed>
+            </closer>
+         </div>
+         <div type="trial_proceedings">
+            <head>THE TRIAL BY THE CO<g ref="char:V">Ʋ</g>RT.</head>
+            <p>THe names of the Jury-men at the Quarter-Court, the 2. of the 4. Moneth, 1646.</p>
+            <list>
+               <item>
+                  <hi>Tho. Marſhal</hi>
+               </item>
+               <item>
+                  <hi>Tho. Boutle</hi>
+               </item>
+               <item>
+                  <hi>John Clough</hi>
+               </item>
+               <item>
+                  <hi>Edward Dykes</hi>
+               </item>
+               <item>
+                  <hi>Tho. Bartlet</hi>
+               </item>
+               <item>
+                  <hi>Edward Paſon</hi>
+               </item>
+               <item>
+                  <hi>Edward Breck</hi>
+               </item>
+               <item>
+                  <hi>John Button</hi>
+               </item>
+               <item>
+                  <hi>Charles Chedwick</hi>
+               </item>
+               <item>
+                  <hi>Richard Goode</hi>
+               </item>
+               <item>
+                  <hi>Fra. Smith</hi>
+               </item>
+               <item>
+                  <hi>Edward Clapp.</hi>
+               </item>
+            </list>
+            <div type="verdict">
+               <head>The Returne of this Jury.</head>
+               <p>WE do find, that Mr. <hi>Peter Hubbard</hi> of <hi>Hingham,</hi> being a Free-man of this Juriſdiction, and having taken the Oath of fidelity thereunto: ſeeming notwithſtanding to be evil-affected to the Government here eſtabliſhed; In and upon the 18. day of the firſt Moneth laſt paſt, at <hi>Hingham</hi> aforeſaid, in the preſence of about thirty perſons, did utter divers ſpeeches which are upon record, tending to ſedition and contempt of the ſaid Government, contrary to the law of God, and peace and wel<g ref="char:EOLhyphen"/>fare of the Country.</p>
+               <p>Upon which Return of the Jury, the Court fined him Twenty pounds, and bound him in Forty pounds to be of good behaviour and to appeare at next Quarter-Court; and Mr. <hi>Peck</hi> bound himſelf in twenty pounds, for the good behaviour and appear<g ref="char:EOLhyphen"/>ance of Mr. <hi>Peter Hubbard</hi> at the next Quarter-Court.</p>
+               <closer>
+                  <signed>
+                     <hi>Increaſe Nowel,</hi> Secret.</signed>
+               </closer>
+               <postscript>
+                  <pb n="6" facs="tcp:114099:5"/>
+                  <p>The Court on this Triall was kept by theſe perſons— Mr. <hi>Winthrop</hi> Governour, Mr. <hi>Dudley</hi> Deputy-governour, Mr. <hi>Pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>im,</hi> Mr. <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m,</hi> Mr. <hi>Hibbins,</hi> Mr. <hi>Nowel,</hi> Mr. <hi>Bellingham,</hi> Mr. <hi>Broadſtreet.</hi> Only Mr. <hi>Bellingham</hi> and Mr. <hi>Broadſtreet</hi> re<g ref="char:EOLhyphen"/>quired their Diſſent to be recorded.</p>
+               </postscript>
+            </div>
+         </div>
+         <div type="petition">
+            <head>To the Worſhipfull, the GOVERNOUR, the Deputy-governour, and the reſt of the Aſſiſtance of the <hi>Maſſachuſets Bay</hi> in <hi>New-England,</hi> to<g ref="char:EOLhyphen"/>gether with the Deputies of the generall Court now aſſembled in <hi>Boſton.</hi>
+            </head>
+            <head type="sub">
+               <hi>The Remonſtrance and humble Petition of us whoſe Names are here under-written, in the behalf of our ſelves and divers within this Juriſdiction.</hi>
+            </head>
+            <p>HUmbly ſhoweth, That we cannot but with all thankfulneſſe acknowledge your indefatigable pains, continuall care, and conſtant vigilancie, which (by the bleſſing of the Almighty) hath procured unto this Wilderneſſe the much deſired fruits of Peace and Plenty; while our native Land, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Chriſtian world is ſharply afflicted with the devouring Sword, and the ſad conſequents of Inteſtine wars. And further, That you whom the Lord hath placed at the helm of theſe Plantations, and en<g ref="char:EOLhyphen"/>dowed with eminent gifts fit for ſuch honourable callings, are beſt able to foreſee the clouds which hang over our heads, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and tempeſts which threaten this poor Handfull here planted; and timouſly to amend them. Notwithſtanding, thoſe who are under <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, being at preſent unfit for higher imployments, may perceive thoſe Leaks which will inevitably ſink this weak and ill compacted Veſſell, if not by your Wiſdoms opportunely prevented.</p>
+            <pb n="7" facs="tcp:114099:5"/>
+            <p>We therefore in the behalf of our ſelves and divers of our Countrymen, laying our hands on our breaſts, and ſeriouſly con<g ref="char:EOLhyphen"/>ſidering, That the hand of our good God who through his good<g ref="char:EOLhyphen"/>neſſe hath ſafely brought us and ours through the great Ocean, and planted us here, ſeems not now to be with us, nay rather a<g ref="char:EOLhyphen"/>gainſt us, blaſting all our deſigns, though contrived with much deliberation, undertaken with great care, and proceeding with more then ordinary probability of ſuccesfull events; by which many of good eſtates are brought to the brinks of ex<g ref="char:EOLhyphen"/>treme poverty; yea, at this time laying His juſt hand upon our families, taking many away to himſelf, ſtriking others with un<g ref="char:EOLhyphen"/>wonted malignant ſickneſſes and noyſome ſhamefull diſeaſes: Have thought it convenient, with all reſpectiveneſſe, to preſent theſe our ſincere requeſts and Remonſtrance to this honoured Court, hoping we have found out the ſpeciall Leaks, which con<g ref="char:EOLhyphen"/>curring with the many and great Sins of this place, (which our Conſciences know, and our Brethren of <hi>England</hi> are not igno<g ref="char:EOLhyphen"/>rant of) are the ſpeciall cauſes of the Lords turning his face from us, leaving us to our ſelves, and conſequently to ſtrife, contenti<g ref="char:EOLhyphen"/>on, unfaithfulneſſe, idleneſſe, and other lamentable failings, not bleſſing us in any of our endeavours, ſo as to give us any great hopes of Staple-commodities, and conſequently of comfort<g ref="char:EOLhyphen"/>able ſubſiſtence; though we to the utmoſt of our powers theſe many years, even to the exhauſting of our eſtates and ſpirits, have endeavoured the ſame: but contrariwiſe all things grow worſe and worſe, even to the threatning (in our apprehenſions) of no leſſe then finall ruine. Not doubting but you will receive theſe our Requeſts and Remonſtrance with the ſame candor of mind, which we, not aiming at novelty and diſturbance but at the glory of God, our allegiance to the State of <hi>England,</hi> and good of theſe poor Plantations, (if our hearts deceive us not) preſent them unto you; though for want of skill and other neceſſary helps roughly drawn up; and hope that you will be more dili<g ref="char:EOLhyphen"/>gent in an ending then we in the ſearching out the cauſes of theſe our preſent calamities, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Not to trouble you (who are imployed in the moſt ſerious affaires of theſe Plantations) with many wor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, wee ſhall briefly referre them to thoſe Heads—</p>
+            <p n="1">
+               <pb n="8" facs="tcp:114099:6"/>1. Whereas this place hath been planted by the incourage<g ref="char:EOLhyphen"/>ments (next under God) of Letters Patents given and granted by His Majeſty of <hi>England</hi> to the Inhabitants hereof, with many priviledges and immunities, <hi>viz.</hi> Incorporation into a Com<g ref="char:EOLhyphen"/>pany, liberty of chooſing Governours, ſetling Government, making Laws not repugnant to the Laws of <hi>England,</hi> power of adminiſtring the Oath of Allegiance to all, &amp;c. as by the ſaid Letters Patents more largely appeareth. Notwithſtanding we cannot according to our judgements cleerly diſcern a ſetled form of Government according to the Fundamentall lawes of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> which may ſeem ſtrange to our Country-men, yea to the whole World, eſpecially conſidering we are all <hi>Engliſh.</hi> Neither do we ſo underſtand or perceive our own Lawes or Liberties, or any Body of Lawes here ſo eſtabliſhed, as that thereby there may be a ſure and comfortable enjoyment of our Lives, Liberties and Eſtates, according to our due Naturall rights, as Free-born ſub<g ref="char:EOLhyphen"/>jects of the Engliſh nation. By which many inconveniences flow into theſe Plantations, <hi>viz.</hi> Jealouſies of introducing Arbitrary Government, (which many are prone to believe) conſtruing the procraſtination of ſuch ſetled Lawes, to proceed from an over<g ref="char:EOLhyphen"/>greedy ſpirit of Arbitrary power (which it may be is their weak<g ref="char:EOLhyphen"/>neſſe) ſuch proceedings being moſt deteſtable to our Engliſh Nation, and to all good men, and at preſent a chief cauſe of the inteſtine War in our dear Country. Further it gives cauſe to many, to think themſelves hardly dealt with, others too much favoured, and the ſcale of Juſtice too much bowed and unequally ballanced: From whence alſo proceedeth feares and jealouſies of illegall Commitments, unjuſt Impriſonments, Taxes, Rates, Cuſtomes, Levies, of ungrounded and undoing Aſſeſments, un<g ref="char:EOLhyphen"/>juſtifiable Preſſes, undue Fines, unmeaſurable Expences and Charges, of unconceivable dangers through a Negative or de<g ref="char:EOLhyphen"/>ſtructive Vote unduly placed, or not well regulated; in a word, of a Non-certainty of all things we enjoy, whether lives, liberties or eſtates; as alſo of undue Oaths, being ſubject to expoſition according to the will of him or them that gives them, and not according to a due and unbowed rule of Law, which is the true Interpreter of all Oaths to all men, whether Judge, on Judged.</p>
+            <pb n="9" facs="tcp:114099:6"/>
+            <p>Wherefore our humble deſire and requeſti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. That you would be pleaſed to conſider of our preſent condition, and upon what foundation we ſtand; and unanimouſly concurre to eſtabliſh the Fundamentall and wholſome Lawes of our native Country, and ſuch others as are no way repugnant to them, unto which all of us are moſt accuſtomed, and we ſuppoſe them beſt agreeable to our Engliſh tempers, and your ſelves obliged thereunto by the Generall Charter, and your Oaths of Allegiance: neither can we tell whether the Lord hath bleſt many in theſe Parts with ſuch eminent Politicall gifts, ſo as to contrive better Lawes and Cuſtomes, than the Wiſeſt of our Nation have with great conſideration compoſed, and by many hundred years experience have found moſt equall and juſt; which have procured to the Nation much honour and renown amongſt ſtrangers, and long peace and tranquility amongſt themſelves. And for the more ſtrict and due obſervation and execution of the ſaid Lawes by all Miniſters of Juſtice, that there may be a ſetled Rule for them to walk by in caſes of Judicature, from which if they ſwerve, there may be ſome Power ſetled, according to the Lawes of <hi>England,</hi> that may call them to account for their Delinquencie, which may be a good means to prevent divers unneceſſary Appeals into <hi>England.</hi>
+            </p>
+            <p n="2">2. Whereas there are many thouſands in theſe Plantations of the Engliſh Nation free-born, quiet peaceable men, righteous in their dealings forward with hand, heart and purſe to advance the publike good, known friends to the honourable and victori<g ref="char:EOLhyphen"/>ous Houſes of Parliament, lovers of the Nation, &amp;c. Who are debarred from all Civil imployment (without any juſt cauſe that we know) not being permitted to beare the leaſt office (though it cannot be denied but ſome are well qualified) No not ſo much as to have any Vote in chooſing Magiſtrates, Captains, or other Civil or Military Officers; notwithſtanding they have here ex<g ref="char:EOLhyphen"/>pended their youth, born the burthen of the day, waſted much of their eſtates for the ſubſiſtence of theſe poor Plantations, paid all aſſeſments taxes, rates, at leaſt equal, if not exceeding others: Yea, when the late War was denounced againſt the <hi>Naragauſet Indians,</hi> without their conſent; their goods were ſeiſed on for the ſervice, themſelves and ſervants eſpecially forced and im<g ref="char:EOLhyphen"/>preſt
+<pb n="10" facs="tcp:114099:7"/> to ſerve in that was, to the hazarding of the things moſt neer and dear unto them. Whence iſſue forth many great incon<g ref="char:EOLhyphen"/>veniences, ſecret diſcontents, murmurings, rents in the Plantati<g ref="char:EOLhyphen"/>ons, diſcouragements in their callings, unſetledneſſe of minde, ſtrife, contention, (and the Lord only knows to what a name in time it may kindle) alſo jealouſies of too much unwarranted power and dominion on the one ſide, and of perpetuall ſlavery and bondage to them and their poſterity on the other, and which is intolerable, even by them who ought to love and reſpect them as brethren, &amp;c.</p>
+            <p>We therefore deſire, that Civil liberty and freedome be forth<g ref="char:EOLhyphen"/>with granted to all truly <hi>Engliſh,</hi> equall to the reſt of their Country-men, as in all Plantations is accuſtomed to be done, and as all Free-borne enjoy in our native Country; we hoping here in ſome things to enjoy greater liberties then elſwhere, counting it no ſmall loſſe of liberty to be as it were baniſhed from our native home, and enforced to lay our bones in a ſtrange wilderneſſe. Without impoſing any Oaths or Covenants on them, which we ſuppoſe cannot be warranted by the Letters Patents, and ſeem not to concurre with the Oath of Allegiance formerly enforced on all, and later Covenants lately impoſed on many here preſent by the honourable Houſes of Parliament; or at leaſt to detract from our native Country, and Laws, (which by ſome are ſtiled Foraign, and this Place termed rather a Free State, then a Colony or Corporation of <hi>England</hi>) All of us being very willing to take ſuch Oaths and Covenants; as are ex<g ref="char:EOLhyphen"/>preſſions of our deſires of advancing the glory of God and good of this place, of our duties to the State of <hi>England</hi> and love to our Nation, being compoſed according to the laws and cuſtomes of other Corporations of <hi>England.</hi> But all of us are exceed<g ref="char:EOLhyphen"/>ingly unwilling, by any policies whatſoever, to be rent from our Native country, though far diſtant from it; valuing our free Denizations, the Immunities and Priviledges which we and our poſterity do, and we hope ſhall alwayes enjoy, above the great<g ref="char:EOLhyphen"/>eſt Honours of this Country not cemented to the State of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and glory to be accounted though but as Ruſhes of that Land, and yet that we may to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to write, that we and ours are <hi>Engliſh.</hi> Or at leaſt we intreat, that the Bodies of us and
+<pb n="11" facs="tcp:114099:7"/> ours (Engliſh ſubjects poſſeſing here no priviledges) may not be impreſt, nor Goods forcibly taken away; leſt we not know<g ref="char:EOLhyphen"/>ing the juſtneſſe of the war, may be ignorantly and unwillingly inforced upon our own deſtructions. And that all Aſſeſments, Taxes, Impoſitions, (which are many and grievous) if Civil liberty be not granted) may be taken off, that in all things we may be Strangers: otherwiſe we ſuppoſe our ſelves in a worſe caſe here, and leſſe free, then, the Natives amongſt whom we live, or any Aliens. Further, that none of the Eng<g ref="char:EOLhyphen"/>liſh nation (who at this time are too forward to be gone, and very backward to come hither) be baniſhed, unleſſe they break the known Lawes of <hi>England</hi> in ſo high a manner, as to deſerve ſo high a puniſhment. And that thoſe few that come over, may ſettle here without having two Magiſtrates hands, which ſome<g ref="char:EOLhyphen"/>time not being poſſible to obtain, hath procured a kind of baniſh<g ref="char:EOLhyphen"/>ment to ſome, who might have been ſerviceable to this place, as they have been to the State of <hi>England,</hi> &amp;c.</p>
+            <p n="3">3. Whereas there are divers ſober, righteous, and godly men, eminent for knowledge, and other gracious gifts of the Holy Spirit, no ways ſcandalous in their lives and converſations, Members of the Churches of <hi>England</hi> (in all Ages famous for piety and learning,) not diſſenting from the late and beſt Re<g ref="char:EOLhyphen"/>formation of <hi>England, Scotland,</hi> &amp;c. Yet they and their poſterity are detained from the Seals of the Covenant of Free-grace, becauſe (as it is ſuppoſed) they will not take theſe Churches Covenants, for which as yet they ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no light in Gods word, neither can they cleerly perceive what they are, every Church having their Covenant differing from anothers, at leaſt in words, yea ſome Churches ſometime adding, ſometimes detracting, calling it ſometime the Covenant of Grace, ſometime a Branch of it, ſometime a Profeſſion of the Free-Covenant, &amp;c. Not<g ref="char:EOLhyphen"/>withſtanding they are compelled, under a ſevere Fine, every Lords day to appeare at the Congregation, and notice is taken of ſuch who ſtay not till Baptiſme be adminiſtred to other mens children, though denied to their own: And in ſome places forced to contribute the maintenance of thoſe Miniſters, who vouch<g ref="char:EOLhyphen"/>ſafe not to take them into their Flock, though deſirous of the
+<pb n="12" facs="tcp:114099:8"/> Ordinances of God, &amp;c. yet they are not accounted ſo much as Brethren, nor publikely ſo called; nor is Chriſtian vigilancie (commanded to all) any way exerciſed to them. Whence (as we conceive) abound an ocean of inconveniences; Diſ<g ref="char:EOLhyphen"/>honour to God and his Ordinances, little profit by the Mini<g ref="char:EOLhyphen"/>ſtery, increaſe of Anabaptiſm, and of thoſe that totally contemn all Ordinances as vain, fading of Chriſtian graces, decreaſe of Brotherly love, Hereſies, Schiſms, &amp;c. The whole body of the Members of the Churches of <hi>England,</hi> like ſheep ſcattered in the wilderneſſe without a ſhepherd, in a forlorne ſad condition. We therfore humbly intreat you, in whoſe hands it is to help, and whoſe judicious eyes diſcern theſe great inconveniences; for the glory of God, and the comfort of your Brethren and Country<g ref="char:EOLhyphen"/>men, to give liberty to the Members of the Churches of <hi>England</hi> not ſcandalous in their lives and converſations (as Members of thoſe Churches) to be taken into your Congregations, and to enjoy with you all thoſe liberties and ordinances Chriſt hath purchaſed for them, and into whoſe Name they are baptized; That the Lord may be one, and his Name one amongſt us in this place; That the Seals of the Covenant may be applied to them and their poſterity, as we conceive they ought to be, till incon<g ref="char:EOLhyphen"/>veniences hereby be found prejudiciall to the Churches, or Colo<g ref="char:EOLhyphen"/>nie (which we hope ſhall never be.) Not doubting but the ſame Chr ſtian favour will be ſhewed to all the Members of theſe Churches, when they ſhall retire to our deare native Country, (if their converſations be righteous and holy); Or otherwiſe to grant liberty to ſettle themſelves here in a Church-way accord<g ref="char:EOLhyphen"/>ing to the beſt Reformations of <hi>England</hi> and <hi>Scotland.</hi> If not, we and they ſhall be neceſſitated to apply our humble deſires to the Honourable Houſes of Parliament, who we hope will take our ſad conditions into their ſerious conſiderations, to provide able Miniſters for us, (this place being not ſo well provided as to ſpare any); Or elſe out of their charity (many eſtates being waſhed) to tranſport us to ſome other place, where we may live like Chriſtians, and not be accounted burthens, but ſerviceable both to Church and State.</p>
+            <p>Theſe things granted, by the bleſſing of God to us in Chriſt, we hope to ſee the now contemned Ordinances of God; highly
+<pb n="13" facs="tcp:114099:8"/> prized; the Goſpel much darkned, break forth as the ſun at noon<g ref="char:EOLhyphen"/>day; Chriſtian charity &amp; brotherly love almoſt frozen, wax warm; Zeal and holy emulation, more fervent; Jealouſies of Arbitrary Government, the bane of all Commonwealths, quite baniſhed; The wicked, if any ſuch be found, in their courſes diſheartned; The righteous actors, in their wayes, encouraged; Secret diſ<g ref="char:EOLhyphen"/>contents fretting like cankers, remedied; Merchandizing, ſhip<g ref="char:EOLhyphen"/>ping by ſpeciall Providence waſted, ſpeedily increaſed; Mines undertaken with more cheerfulneſſe, Fiſhing with more for<g ref="char:EOLhyphen"/>wardneſſe; Husbandry, now withering<g ref="char:punc">▪</g> forthwith flouriſhing; Villages and Plantations, much deſerted, preſently more po<g ref="char:EOLhyphen"/>pulous; All mechanicall Trades, the great enrichers of all Commonwealths, bravely going on; Staple-commodities, the life of States, preſently raiſed; Our almoſt loſt credit regained; Our brethren of <hi>England's</hi> juſt indignation, and therefore as from a peſt flying from us, turned to imbraces; The honourable Houſes of Parliament, Patrons of Piety, under their wings, in theſe dangerous times, with all alacrity ſhrowding us; The Priviledges and Immunities which we and ours enjoy in our native Land, more firmly ſetled; Foraign enemies daily threat<g ref="char:EOLhyphen"/>ning, totally diſcouraged; Unſetled men now abounding, firmely planted, that the proſperity of <hi>England</hi> may not be the ruine of this Plantation, but the contrary; Hands, hearts, and purſes now ſtraightned, freely opened for publick and ho<g ref="char:EOLhyphen"/>norable ſervices; Strife and contention now rife, abated; Taxes and ſeſſes, lightned; The burthens of the State, but pleaſure. To conclude, all buſineſſes in Church and Common wealth which for many years have ſeemed to goe backward, beyond our de<g ref="char:EOLhyphen"/>ſert, yea expectation, the good hand of our God going along with us, ſuccesfully thriving.</p>
+            <p>And ſhall alwayes pray the Almighty the only wiſe God, to guide you with his wiſedome, ſtrengthen you with his power, in all your undertakings, that all may be to his glory and good of his people; and that he would bleſſe your Wiſdomes with the bleſſings of peace, plenty, and long dayes, &amp;c.</p>
+            <p>
+               <hi>Robert Child, Tho. Fowle, Samuel Maverick, Thoma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Burton, David Yale, John Smith, John Dund.</hi>
+            </p>
+            <closer>
+               <dateline>This Petition was preſented to the Generall Court held at <hi>Boſton,</hi> 
+                  <date>
+                     <hi>May</hi> 19, 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="narrative">
+            <pb n="14" facs="tcp:114099:9"/>
+            <head>A Relation of the effects this Petition produced.</head>
+            <p>THough this Petition of Dr. <hi>Child</hi> was in a peaceable way preſented, only by two of the Subſcribers; yet it produced theſe effects, and thus it wrought—</p>
+            <p>Firſt, the Elders (not all, ſome few being ſilent) in their Congregations publikely uſing ſeverall Expreſſions, but to one and the ſelf-ſame end; as, That it was a ſeditions Petition full of malignancie, ſubvertive both to Church and Commonwealth in their foundations; Some calling theſe that ſo Petitioned, or comparing them to Sons of <hi>Belial, Judaſſes,</hi> Sons of <hi>Corah</hi> with ſundry appellations of that nature, with ſome ſuch appli<g ref="char:EOLhyphen"/>cations, which ſeemed not to ariſe from a Goſpel ſpirit; uſually ekeing out their Sermons in large and defamatory declamations both againſt their Perſons and Petition, yea ſometimes a whole Sermon, and that not very ſhort neither being ſpent in enlarged ſentences to denote the deſtructiveneſſe thereof to Church and Commonwealth; yea publikely exhorting Authority to lay hold upon thoſe Petitioners, which the ſame night they did.</p>
+            <p>Nor were the Magiſtrates in the mean ſeaſon altogether ſilent, but ſpake in the ſame key; yea, One publikely in open Court gave charge to the Jury to take notice of ſuch of a Petition, and of ſuch as were that way affected, for they were both Preſentable and puniſhable by their Law; for he ſaid it was a wicked Pe<g ref="char:EOLhyphen"/>tition, full of malignancie, ſubverting the very foundations both of Church and Commonwealth, or words to that effect; And how far it reached, he knew not, pointing (as was apprehended) at a Capital Law there made, here reprinted.</p>
+            <p>Now at the next ſitting of the General Court, ſix of the ſeven that Petitioned, were ſent for by the Marſhall to come to the Court, where they were charged <hi>ore temus,</hi> with great offences contained in their Petition and Remonſtrance, againſt the Court and Government, and that ſuch of them as were bound out of the Juriſdiction, ſhould enter into Bond with ſecurity, to ſtand and abide the Judgement of the Court, and the reſt were con<g ref="char:EOLhyphen"/>fined, and charged to attend the Court to the ſame end. The
+<pb n="9" facs="tcp:114099:9"/> Petitioners deſired to have their Charge in writing, which was then denied; and ſome added, That was but a trick of them that they might carry it and ſhew it in <hi>England:</hi> They replied, If the offences were contained in the Petition, they then muſt needs be ſuch as concerned Government; and that the Parliament, now ſitting in <hi>England,</hi> were competent Judges, and could beſt diſcern ſuch errors; and therefore they did appeal to that High Court, and did tender ſufficient Securitie therefore. For which two of them were preſently committed, and forced thereby to give Bond to ſtand to the Order of that Court therein. And the Cauſe afterwards came to Hearing, notwithſtanding they did appeal to the high Court of Parliament, and would have given Security; they were Fined, as appears by this their Cenſure. And ſince, two of them, Dr. <hi>Child</hi> and another, had their Trunks and Studies broke up, and their Papers taken away, and impriſoned cloſe priſoners, and are in danger of their lives by reaſon of that Capitall Law here recited.</p>
+         </div>
+         <div type="laws">
+            <head>BY THE COURT: In the Yeares, 1641. 1642. <hi>Capital Lawes, eſtabliſhed within the Juriſdiction of</hi> MASSACHUSETS.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F any man, after legall conviction, ſhall have or wor<g ref="char:EOLhyphen"/>ſhip any other god, but the Lord God, he ſhall be put to death. <hi>Deut.</hi> 3.6, &amp;c. and 17.2, &amp;c. <hi>Exod.</hi> 22.20.</p>
+            <p n="2">2. IF any man or woman be a Witch, (that is) hath, or con<g ref="char:EOLhyphen"/>ſulteth with a Familiar ſpirit, they ſhall be put to death. <hi>Exod.</hi> 22.18. <hi>Lev.</hi> 20.27. <hi>Deut.</hi> 18.10, 11.</p>
+            <p n="3">
+               <pb n="8" facs="tcp:114099:10" rendition="simple:additions"/>3. IF any perſon ſhall blaſpheme the Name of God the Father, Son, or Holy Ghoſt, with direct, expreſſe, preſumptuous, or high-handed blaſphemy, or ſhall curſe God in the like manner, he ſhall be put to death. <hi>Lev.</hi> 24.15, 16.</p>
+            <p n="4">4. IF any perſon ſhall commit any wilfull murther, which is Man-ſlaughter, committed upon prnmeditate malice, hatred or cruelty, not in a mans neceſſary and juſt defence, nor by meer caſualty againſt his will, he ſhall be put to death. <hi>Exod.</hi> 21.12, 13, 14. <hi>Num.</hi> 35.30, 31.</p>
+            <p n="5">.5 IF any perſon flayeth another ſuddenly in his anger, or cruel<g ref="char:EOLhyphen"/>ty of paſſion, he ſhall be put to death. <hi>Num.</hi> 35.20, 21. <hi>Lev.</hi> 24.17.</p>
+            <p n="6">6. IF any perſon ſhall ſlay another through guile, either by poy<g ref="char:EOLhyphen"/>ſonings, or other ſuch deviliſh practice he ſhall be put to death. <hi>Exod.</hi> 21.14.</p>
+            <p n="7">7. IF a man or woman ſhall lie with any <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by carnall copulation, they ſhall ſure <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the beaſt ſhall be ſlain and buried. <hi>Lev.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="8">8. IF a man lieth with mankinee, as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> both of them have committed abo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſurely be put to death. <hi>Lev.</hi> 20.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p n="9">9. IF any perſon committeth adultery v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſed wife, the Adulterer and Adulte <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to death. <hi>Lev.</hi> 20.10. &amp; 18.20. <hi>De</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="10">10. IF any man ſhall unlawfully have carnall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>peration w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any woman child under ten years old, either with or with<g ref="char:EOLhyphen"/>out her conſent, he ſhall be put to death.</p>
+            <p n="11">11. IF any man ſhall forcibly and without conſent raviſh any maid, or woman that is lawfully married or contracted, he ſhall be put to death. <hi>Deut.</hi> 22.25, &amp;c.</p>
+            <p n="12">12. IF any man ſhall raviſh any maid or ſingle woman, (com<g ref="char:EOLhyphen"/>mitting carnall copulation with her by force, againſt he will) that is above the age of ten years; he ſhall be either pu<g ref="char:EOLhyphen"/>niſhed with death, or with ſome other grievous puniſhment, ac<g ref="char:EOLhyphen"/>cording to circumſtances, at the diſcretion of the Jvdges: and this Law to continue till the Court take further order.</p>
+            <p n="13">13. JF any man ſtealeth a man, or man-kinde, he ſhall ſurely be put to death. <hi>Exod.</hi> 21.16.</p>
+            <p n="14">
+               <pb n="9" facs="tcp:114099:10"/>14. JF any man riſe up by falſe witneſſe, wittingly, and of pur<g ref="char:EOLhyphen"/>poſe to take away any mans life, he ſhall be put to death, <hi>Deut.</hi> 19.16, 18, 19.</p>
+            <p n="15">15. JF any man ſhall conſpire or attempt any invaſion, inſur<g ref="char:EOLhyphen"/>rection, or publike rebellion againſt our Common-wealth, or ſhall endeavour to ſurpriſe any Town or Towns, Fort or Forts therein; or ſhall treacherouſly or perfidiouſly attempt the al<g ref="char:EOLhyphen"/>teration and ſubverſion of our frame of Polity or Government fundamentally, he ſhall be put to death. <hi>Num.</hi> 16. 2 <hi>Sam.</hi> 3. &amp; 18. &amp; 20.</p>
+            <closer>
+               <signed>
+                  <hi>Per exemplar.</hi> Incre. Nowel, <hi>Secret.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="oath">
+            <head>THE OATH OF A FREE-MAN.</head>
+            <p>I <hi>(A. B.)</hi> being by Gods providence, an Inhabitant, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> within the Juriſdiction of this Common<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nowledge my ſelf to be ſubject to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe And therefore do here ſwear <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful Name of the Ever-living God, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> faithfull to the ſame, and will ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce &amp; ſupport thereunto, with my <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> equity <hi>I</hi> am bound; and will alſo <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aintain and preſerve all the liberties <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of, ſubmitting my ſelf to the whole<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inde and eſtabliſhed by the ſame. And further, that <hi>I</hi> will not plot or practice any evill a<g ref="char:EOLhyphen"/>gainſt it, or conſent to any that ſhall ſo do; but will timely diſcover and reveal the ſame to lawfull Authority now here eſtabliſhed, for the ſpeedy preventing thereof.</p>
+            <p>Moreover, <hi>I</hi> doe ſolemnly bind my ſelf in the ſight of God, that when <hi>I</hi> ſhal be called to give my voyce touching any ſuch matter of this State, in which Free<g ref="char:EOLhyphen"/>men are to deal, <hi>I</hi> will give my vote and ſuffrage as <hi>I</hi> ſhall judge in mine own conſcience may beſt conduce and tend to the publike weal of the body, without reſpect of perſons, or favour of any man. So help me God in the Lord Jeſus Chriſt.</p>
+         </div>
+         <div type="narrative">
+            <pb n="12" facs="tcp:114099:11"/>
+            <head>Concerning the throwing the Petition over-board as a <hi>Jonas,</hi> it was as followeth.</head>
+            <p>WHen the firſt ſhip that came this Year 1646. from <hi>New-England,</hi> was almoſt ready to come from thence; Mr. <hi>Cotton,</hi> in his Thurſday-Lecture at <hi>Boſton,</hi> preached out of that Scripture, <hi>Cant.</hi> 2.15. <hi>Take us the little Foxes, &amp;c.</hi> In his Uſes took occaſion to ſay, <hi>That if any ſhall carry any Writings, Complaints againſt the People of GOD in that Country, it would be as</hi> Jonas <hi>in the ſhip,</hi> with many words to perſwade from ſuch Complaints in <hi>England,</hi> ſaying that they ſhould ſeek for remedy of thoſe things that were amiſſe, in that place, &amp; <hi>tell it not in Gath, nor publiſh it in Askelon.</hi> He alſo adviſed the Ship-Maſter, that if ſtorms did ariſe, to ſearch if they had not in any cheſt or Trunk any ſuch <hi>Jonas</hi> aboard, which if you find (ſaid he) I do not adviſe you to throw the Perſons over-board, but the Writings; or words to that effect.</p>
+            <p>Whereupon, having great<note n="*" place="margin">In the winter-ſeaſon all paſ<g ref="char:EOLhyphen"/>ſages from N. England are tempeſtuous.</note> ſtorms (as could not be otherwiſe expected) ſome of the Paſſengers remembring Mr. <hi>Cottons</hi> Sermon, it ſeems were much affected with what he had ſaid; and a woman amongſt them came up from between the Decks about midnight, or after, in a diſtracted paſſionate manner, to Mr. <hi>William Vaſſall</hi> who lay in the great Cabin, but for the preſent was in the Sterage-door-way looking abroad: ſhe earneſtly de<g ref="char:EOLhyphen"/>ſired him, if there were any <hi>Jonas</hi> in the ſhip, that as Mr. <hi>Cotton</hi> had directed, it might be thrown over-board, with many broken expreſſions to that purpoſe. He asked her why ſhe came to him? and ſhe ſaid, becauſe it was thought that he had ſome Writings againſt the people of God: but he anſwered her, He had nothing but a Petition to the Parliament that they might enjoy the liberty of Engliſh ſubjects, and that could be no <hi>Jonas;</hi> and that if the beſt of <hi>New-Englands</hi> friends could ſhew him any evil in that, he would not prefer it. After this ſhe went into the great Cabin to Mr. <hi>Tho. Fowle</hi> in like diſtracted manner; who told her he had nothing but the Copy of the Petition which himſelf and o<g ref="char:EOLhyphen"/>thers had preſented to the Court at <hi>Boſton;</hi> and ſhewed, and read it to her, and then told her, That if ſhe and others thought that to be the Cauſe of the ſtorm, ſhe and they might do what they would with it; but he profeſſed that he ſaw no evil in it, neither was his Conſcience troubled with it. So ſhe took it and
+<pb n="13" facs="tcp:114099:11"/> carried it between Decks to them from whom ſhe came, and they agreed to throw it over-board, and it was thrown over<g ref="char:EOLhyphen"/>board: but the ſtorm did not leave us upon the throwing of this Paper over-board, as it is reported; for they had many great ſtorms after that; much leſſe was the great and wonderfull de<g ref="char:EOLhyphen"/>liverance which by Gods mercy he gave unto them from ſhip<g ref="char:EOLhyphen"/>wrack and drowning at the Iſles of <hi>Silly,</hi> upon the throwing of that Writing over-board; for that was thrown over long before, at leaſt 14 dayes. Alſo the error is the more in this, That the re<g ref="char:EOLhyphen"/>port is that it was the petition to the <hi>Parliament</hi> that was thrown over-board; and it was only a Copy of a Petition to their own Court at <hi>Boſton,</hi> and the Petition to the Parliament was ſtill in the ſhip, together with another Copy of that which was thrown over-board, and other Writings of that nature, ſome of which are printed in this book, and were as well ſaved as their lives and other goods, and are here in <hi>London</hi> to be ſeen and made uſe of in convenient time.</p>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>THere is a book lately ſet-forth by Mr. <hi>Edward Winſlow</hi> of <hi>New England,</hi> againſt <hi>Samuel Gorton,</hi> intituled <hi>[Hypocriſie unmasked]</hi> in which there is a deep and ſubtle Plot againſt the Lawes of <hi>England,</hi> and Liberties of Engliſh Subjects, and the Gentlemen that are now ſuffering in <hi>New-England.</hi> This man being a principall oppoſer of the Lawes of <hi>England,</hi> in <hi>New-England;</hi> One who is uſually in place of Government in <hi>New-Plimouth</hi> there. Now in <hi>N. England</hi> there are many ſeveral Go<g ref="char:EOLhyphen"/>vernments diſtinct and independent one from and on the other, and none of them have, ever ſince they came into that Country, governed by the Lawes of <hi>England,</hi> but by an Arbitrary govern<g ref="char:EOLhyphen"/>ment of their own, nor indeed can they endure the Laws of <hi>Eng.</hi> This <hi>New Plimouth,</hi> where M. <hi>Winſlow</hi> is a Magiſtrate, was the firſt Plantation in <hi>New-England;</hi> and as the reſt that came after them thither, followed them in their Church-ways, ſo they follow them in their Arbitrary government. And now he is come over hither, being ſent as an Agent for the reſt, that the may get ſtrength from
+<pb n="12" facs="tcp:114099:12"/> the Parliament here, to maintain what they have begun, &amp; made ſo great a progreſſe in. They have made a Law, that it ſhall be death for any there to attempt the alteration and ſubverſion of their Frame of Polity or Government, as it is apparent by thoſe Lawes in Print ſet forth by themſelves, the Copy whereof is in <hi>pag</hi> 16. of this Book ſet forth; and alſo proceeded to the Fining and Impriſoning of ſome well-affected Engliſh, whom they fear will complain of this their Arbitrary government, that ſo none may dare to ſeek for a remedy from the Parliament. We have cauſe heartily to pray, That (as Mr. <hi>Baily</hi> ſets forth in his book of <hi>Diſſwaſive from the Errors of the times</hi>) as from <hi>New-England</hi> came Independencie of Churches hither, which hath ſpread over all parts here; that from thence alſo (in time) Arbitrary Government in the Commonwealth may not come hither.</p>
+            <p>Now if any man ask how 'tis evident there is ſuch a Plot laid down in that Book? I anſwer, (to be very briefe) I ſhall give the Reader this light into this deſigne. In his Epiſtle before the book which he dedicates to the Honourable Commiſſioners for For<g ref="char:EOLhyphen"/>raign Plantations, he makes five Requeſts to them, the fourth of which is, That <hi>they will take into conſideration, how deſtructive it will be to their Plantations, and proceedings there,</hi> (which ſaith he are growing into a Nation) <hi>to anſwer to complaints here.</hi> See and obſerve (Reader) how he ſeeks to ſtop all Appeals from all their unjuſt Sentences, whatſoever they may be contrary to the Lawes of <hi>England.</hi> Secondly, he would make their Honours to be the Inſtruments to ſtop the Currant of the greateſt Liberty of Engliſh ſubjects there; he would engage the Parliament in it; and what a deſperate buſineſſe this would prove, every wiſe man may eaſily ſee: For being begun at this Plantation, by the ſame rule others might ſeek it ſhould extend to all other Plantations, and then why not to <hi>Ireland?</hi> and why ſhall not example, cu<g ref="char:EOLhyphen"/>ſtome, and fair pretences bring it into <hi>Wales</hi> and <hi>Cornwal,</hi> ſo over <hi>England?</hi> And by the way (Reader) mark his great boaſt<g ref="char:EOLhyphen"/>ing that they are <hi>growing into a Nation;</hi> high concel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of a Nation breeds high thoughts of themſelves; which makes them uſually term themſelves a <hi>State,</hi> cal the people there <hi>Subjects,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> four Governments together without any authority from the King and Parliament, and then term themſelves the United Colonies, are publikely prayed for by that title; not giving forth their
+<pb n="13" facs="tcp:114099:12"/> Warrants in his Majeſties name, no not in time of his moſt peace<g ref="char:EOLhyphen"/>able government, neither taking the Oath of Allegiance before they take upon them their Government, nor ever giving it to any of his Majeſties ſubjects, &amp;c. Now (Reader) obſerve their policie, they take the advantage of promoting this deſigne, by beginning to write againſt <hi>Gorton,</hi> a man whom they know is no<g ref="char:EOLhyphen"/>torious for hereſie, that ſo behind him they may creep and get a ſhot at a better game, may beget a good opinion in the Ho<g ref="char:EOLhyphen"/>norable Comiſſioners by writing againſt ſuch a evill man; as alſo that they may waſh away the opinion that good men heretofore have had of them, that they are Separatiſts and Schiſmaticks, Mr. <hi>Winſlow</hi> their Agent inſinuates ſeverall things of the good a<g ref="char:EOLhyphen"/>greement &amp; communion that the Independents in New-England hold with Presbyterians and the Reformed Churches, of which he had diſcourſed with ſome godly Presbyterians ſince his com<g ref="char:EOLhyphen"/>ming over into England, and ſaith he was earneſtly requeſted by ſome of the Presbyterian party to publiſh to the world as much, <hi>pag.</hi> 97. and thereupon tells a long ſtory of the Church of <hi>New-Plymouth</hi> belonging to Mr. <hi>Robinſon</hi> of <hi>Leyden,</hi> holding com<g ref="char:EOLhyphen"/>munion with French and Dutch churches, yea tendring it to the <hi>Scots;</hi> as alſo (<hi>pag.</hi> 93.) how the reſt of the Churches in New-England do ſuffer Presbyterians, and have offered all liberty and priviledges to Presbyterians, <hi>p.</hi> 99. 100. But for anſwer, I ſay there is a great deal of fallacie in this diſcourſe, and the contrary is too well known and daily practiſed among the Independents both there and here, not admitting the moſt godly men into commu<g ref="char:EOLhyphen"/>nion among them, not to the acts wherein they hold communion ſtands properly; keeping Communion with them in Word and Prayer, which they admit to their <hi>Indians</hi> too. And let them in<g ref="char:EOLhyphen"/>ſtance, if they can, among many hundreds, yea ſome thouſands of Independents that have come from New-England and Holland, that have come to the Lords ſupper in our Churches, or done any act among us, in which they hold Church-communion properly ſtands? 2. Rather then Mr. <hi>Winſlow</hi> will fail of his purpoſe, he will make the world believe that the Reformed Churches are as much Separatiſts as themſelves are, by deſcribing them with the ſame deſcription that the Separatiſts deſcribe themſelves, <hi>p.</hi> 96. That <hi>they are a People diſtinct from the World, and gathered into a holy Communion</hi> (he ſhould have ſaid Covenant, which is his ſenſe)
+<pb facs="tcp:114099:13"/> 
+               <hi>and not National churches,</hi> and that the <hi>ſixth perſon is not of the Church</hi> (meaning a<g ref="char:EOLhyphen"/>mongſt them) which falſhood of his he boldly affirms, thinking that many will believe becauſe he ſaith it, but the contrary is well known to thoſe that know them; for in <hi>Holland</hi> they refuſe not to baptize any of their Country-mens-children who bring them to be baptized, elſe would their unbaptized be ſeen amongſt them as well as they are to be ſeen in <hi>New-England;</hi> beſides tis well known the Church of <hi>Scotland</hi> holds themſelves a National church, and hath a National Aſſembly, and ſo the Church of <hi>Holland</hi> and <hi>France</hi> hold themſelves National churches againſt the Independents. 3. As to the great love he inſinuates they of <hi>New-England</hi> bear to Presbyterian churches, by the example of Profering certain Scots a <hi>Plan<g ref="char:EOLhyphen"/>tation amongst them, where they ſhould ſhare with them in their lands, and enjoy their liberty of Presbyterial government,</hi> p. 100. I anſwer, that paſſage is ſtrange, and I can hardly believe it, that they who denied ſo many godly Miniſters well known to them, Mr. <hi>Ball,</hi> Mr. <hi>Rathband,</hi> &amp;c. Engliſh men, the liberty of enjoying Presby<g ref="char:EOLhyphen"/>teriall government, ſhould grant it to ſtrangers of the Scotiſh nation. Now that they denied them, is apparent; beſides Mr. <hi>Rathband</hi> and other Miniſters teſtimo<g ref="char:EOLhyphen"/>nies (now with God) and Mr. <hi>Aſh</hi> of the Aſſembly and others teſtifying ſo much, themſelves in Print, in the book intituled <hi>Church-government and Church covenant diſcuſſed,</hi> in anſ. to the 31 queſt. p. 83, 84. confeſſe it, and give reaſon of their denial. But if it be true there were any ſuch promiſe to the <hi>Scots</hi> (which I much queſtion) I am confident they had ſome deſign of their own in it, ſome worldly end or other; as namely, That in thoſe dangerous times, when it was likely that the time in <hi>England</hi> would ſoon be ſo bad that they could not be ſupplied of neceſſaries from <hi>England,</hi> they might then be ſupplied from <hi>Scotland</hi> with cloth as leather, &amp; ot<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r commodities; which Plot a very dull States-man might eaſily have contriv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. 4. As for that he ſays, that Mr. <hi>Noyce,</hi> Mr. <hi>Parker,</hi> and Mr. <hi>Hubard,</hi> have their li<g ref="char:EOLhyphen"/>berties in <hi>New England,</hi> who yet are Presbyterian; I anſwer, the Church of the two firſt was founded in the Church way of the <hi>Independent</hi> manner, which is not anew conſtituted, though they in their judgments are ſomewhat different, and ſtill they hold many Independent principles, as may be ſeen by Mr. <hi>Noyſe's</hi> Book lately printed, though ſome Presbyterian principles. 5. For Mr. <hi>Hubard,</hi> dares Mr. <hi>Winſlow</hi> ſays that Mr. <hi>Hubard</hi> was not puniſhed neither directly nor indirectly, for baptizing ſome children whoſe parents were not members of their Churches, and that his ſharp fines &amp; diſgracefull being bound to the good behaviour, had an in<g ref="char:EOLhyphen"/>fluence from the baptiſm of thoſe children? 6. Can any man think that the de<g ref="char:EOLhyphen"/>ſpitefull paſſages vented in Pulpits againſt the Church of <hi>England</hi> there, by ſome of their chief Elders, calling England <hi>Egypt</hi> &amp; <hi>Babylon,</hi> and ſaying, that out of their Church-waies we cannot go to Heaven, denying the Scales of the Co<g ref="char:EOLhyphen"/>venant to ſome, becauſe they would not confeſſe that there was no way of God law<g ref="char:EOLhyphen"/>full to govern the Church by, but the Independent way; and for no other cauſe as it is ready to be proved, when ever Mr. <hi>VVinſlow</hi> or any other Independents will deſired meeting, in <hi>London,</hi> before indifferent Judges; and much more then I will here relate) is a ſign of love to the Presbyterian brethren, and of keeping communion with them. 7. Concerning the offer that Mr <hi>VVinſlow</hi> ſaith was made not long before he came away, by the Court, to certain diſcontented perſons de<g ref="char:EOLhyphen"/>manding liberty for Presbyterial government, that it was freely is openly tendred to them; this is ſtrange news to us here, for we hear not one word of that offer from thoſe Petitioners, although here are letters from ſome of them dated ſince M. <hi>VVin<g ref="char:EOLhyphen"/>flows</hi> comming from thence, that relates that Dr. <hi>Child</hi> &amp; others of them remained ſtill in priſon, ſave that D. <hi>Child</hi> hath the liberty to be confined to M. <hi>Laeders</hi> houſe upon ſecurity of 800. l. bond being given for his abiding there. For a concluſion of this Poſtſcript, I ſhall deſire the Reader by all that hath been ſaid, to obſerve how Independents are all of a peece, for ſubtilltie, deſigns, fallacies, both in <hi>New-England</hi> and in <hi>Old.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
